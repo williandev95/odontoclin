@@ -25,6 +25,7 @@
     "@angular/build": "^21.2.10",
     "@angular/cli": "^21.2.10",
     "@angular/compiler-cli": "^21.2.0",
+    "angular-cli-ghpages": "^3.1.0",
     "autoprefixer": "^10.5.5",
     "postcss": "^8.5.28",
     "prettier": "^3.8.1",
